@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    
+      <h1> Uzumaki Naruto うずまきナルト</h1>    
+      <img src="naruto1.jpg" height="200">
+      <h2> Genin </h2>
+
+  </header>
+
+  <main>
+      <h3>Dados Pessoais: </h3>
+      Endereço: Konoha (Vila Oculta da Folha) <br>
+      Data de nascimento: 10 de Outubro <br>
+      Time 7 <br>
+      Comida Favorita: Ramen do Ichiraku
+
+      <p>
+
+      </p>
+      <h1></h1>
+        <h3>Objetivo:</h3>
+        Quero me tornar o maior hokage que o mundo já viu.
+        <br>
+        <h3>Habilidades: </h3>
+        Técnica dos Clones das Sombras <br>
+        Invocação no Jutsu <br>
+        Rasengan <br>
+
+
+      <br> <br>
+  </main>
+    
+  <footer>
+     Feito por Gabriella (Dattebayo!)
+  </footer>
+</body>
+</html>
